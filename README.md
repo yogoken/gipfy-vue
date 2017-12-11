@@ -1,6 +1,6 @@
 # gipfy-vue
 
-A Vue.js project
+a vue.js project
 
 ## Build Setup
 
